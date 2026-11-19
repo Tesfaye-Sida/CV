@@ -1,16 +1,17 @@
 # Tesfaye Shiferaw Sida, PhD
-
 Addis Ababa, Ethiopia | [Google Scholar](https://scholar.google.com/citations?user=m-LA3WoAAAAJ&hl=en)
 
 **Systems Agronomy | Soil Health and Plant Nutrition | Digital Agronomy | Agricultural Data and Modelling**
 
-## Professional profile
+## Professional profile summary
 
-Systems agronomist and sustainable agriculture scientist with more than 15 years of research and development experience across Ethiopia and sub-Saharan Africa. I lead multidisciplinary research that connects field experiments, soil and crop data, spatial targeting, modelling, and farmer-facing decision support. My work includes digital nutrient-management advice and analysis of why site-specific tools do or do not translate into use. I have designed and overseen multi-year trials in more than 11 countries, helped establish six long-term experimental networks across three continents, and used more than 16,700 soil observations and 3,000 on-farm yield records to inform investment and targeting decisions. At CIMMYT, I have led teams of 20 direct reports, coordinated more than 50 implementation staff, and contributed to mobilizing over USD 10 million for agricultural R&D.
+Systems agronomist and sustainable agriculture scientist with more than 15 years of research and development experience across Ethiopia and sub-Saharan Africa. I lead multidisciplinary research that connects field experiments, soil and crop data, spatial targeting, modelling, and farmer-facing decision support. My work includes digital nutrient-management advice and analysis of why site-specific tools do or do not translate into use. I have designed and overseen multi-year trials in more than 11 countries, helped establish six long-term experimental networks across three continents, and used more than 16,700 soil observations and 5,000 on-farm yield records to inform investment and targeting decisions. At CIMMYT, I have led teams of 20 direct reports, coordinated more than 50 implementation staff, and contributed to mobilizing over USD 10 million for agricultural R&D.
 
-## Relevance to the proposed AI oversight study
+## Digital agriculture, decision-support advisory systems, and data science
 
-For the proposed Transformative AI Fund study, I would lead the agricultural evidence and case-development work: defining decision contexts, documenting data provenance and limitations, establishing defensible agronomic action ranges with independent experts, and interpreting model and reviewer performance against field evidence. This role draws on my established experience in agronomic research, data quality, decision-support tools, and evaluation under heterogeneous and incomplete information. The AI oversight study is a proposed extension of this work; my contribution is domain science, research design, and evidence governance within a multidisciplinary AI-safety collaboration.
+My work links field agronomy, digital advice, and quantitative evidence. I led the design and validation of Digital AgroClimatic Advisory Systems (DACAS), including the advisory engine, delivery architecture, pilots, and economic assessment. This involved examining how farmer-facing nutrient and climate recommendations are generated, communicated, and used in practice. Through Guiding Acid Soil Management Investments in Africa (GAIA), I co-authored a harmonized dataset of more than 5,000 on-farm lime trials and led field validation, spatial targeting, and agronomic-economic analysis.
+
+I led development of the Soil Health Assessment Protocol and Evaluation for Sub-Saharan Africa (SHAPE-SSA), applying hierarchical Bayesian modelling and uncertainty quantification to more than 28,000 georeferenced observations for transparent, context-specific benchmarking. Current work aligns data structures and recommendation logic across advisory systems, including AI-enabled approaches. My 2023 study of site-specific nutrient-management tools examined why technically sound recommendations do not always become trusted, scalable decision support. Together, this record spans advisory design, evidence integration, data quality, modelling, and evaluation.
 
 ## Core expertise
 
@@ -81,11 +82,13 @@ For the proposed Transformative AI Fund study, I would lead the agricultural evi
 - **MSc, Agroecology** - Norwegian University of Life Sciences, Norway | 2006–2008
 - **BSc, Plant Sciences** - Hawassa University, Ethiopia | 2000–2004
 
-## Selected publications
+## Relevant publications
 
-- Sida, T.S. et al. (2023). Failure to scale in digital agronomy: Analysis of site-specific nutrient management decision-support tools in developing countries. Computers and Electronics in Agriculture, 212, 108060.
-- Snapp, S. et al. (2023). Spatially differentiated nitrogen supply is key in a global food–fertilizer price crisis. Nature Sustainability, 6(10), 1268–1278.
-- Sida, T.S. et al. (2018). Crop vs. tree: Can agronomic management reduce trade-offs in tree–crop interactions? Agriculture, Ecosystems & Environment, 260, 36–46.
+- *Sida, T.S.* et al. (2023). Failure to scale in digital agronomy: Analysis of site-specific nutrient management decision-support tools in developing countries. Computers and Electronics in Agriculture, 212, 108060.
+- Snapp, S., *Sida, T.S.* et al. (2023). Spatially differentiated nitrogen supply is key in a global food–fertilizer price crisis. Nature Sustainability, 6(10), 1268–1278.
+- *Sida, T.S.* et al. (2018). Crop vs. tree: Can agronomic management reduce trade-offs in tree–crop interactions? Agriculture, Ecosystems & Environment, 260, 36–46.
+- Biru, M.K., Nunes, M.R., Mohkam-Singh,*Sida, T.S.*. (2026). “A region-specific soil health assessment protocol and evaluation for Sub-Saharan Africa.” Communications Earth & Environment, 7, 670. https://doi.org/10.1038/s43247-026-03727-1
+- *Sida, T.S.*, Chamberlin, J., Ayalew, H., Kosmowski, F., & Craufurd, P. (2021). “Implications of intra-plot heterogeneity for yield estimation accuracy: Evidence from smallholder maize systems in Ethiopia.” Field Crops Research, 267, 108147. https://doi.org/10.1016/j.fcr.2021.108147. This study compared five yield-estimation protocols with full-plot harvests from 230 smallholder maize fields.
 
 ## Languages
 
