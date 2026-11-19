@@ -1,6 +1,6 @@
 # Tesfaye Shiferaw Sida, PhD
 
-Addis Ababa, Ethiopia | [Google Scholar]([https://scholar.google.com/citations?user=m-LA3WoAAAAJ&hl=en])
+Addis Ababa, Ethiopia | [Google Scholar](https://scholar.google.com/citations?user=m-LA3WoAAAAJ&hl=en)
 
 **Systems Agronomy | Soil Health and Plant Nutrition | Digital Agronomy | Agricultural Data and Modelling**
 
@@ -91,4 +91,4 @@ For the proposed Transformative AI Fund study, I would lead the agricultural evi
 
 Amharic (native) | Afaan Oromo (native) | English (fluent)
 
-Full publication record available through [Google Scholar]([https://scholar.google.com/citations?user=m-LA3WoAAAAJ&hl=en])
+Full publication record available through [Google Scholar](https://scholar.google.com/citations?user=m-LA3WoAAAAJ&hl=en)
