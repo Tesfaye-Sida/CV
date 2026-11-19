@@ -1,6 +1,6 @@
 # Tesfaye Shiferaw Sida, PhD
 
-Addis Ababa, Ethiopia | [GitHub profile](https://github.com/Tesfaye-Sida)
+Addis Ababa, Ethiopia | [Google Scholar]([https://scholar.google.com/citations?user=m-LA3WoAAAAJ&hl=en])
 
 **Systems Agronomy | Soil Health and Plant Nutrition | Digital Agronomy | Agricultural Data and Modelling**
 
@@ -76,10 +76,10 @@ For the proposed Transformative AI Fund study, I would lead the agricultural evi
 
 ## Education
 
-- **PhD, Production Ecology and Resource Conservation (Systems Agronomy)** — Wageningen University & Research, The Netherlands | 2014–2018
-- **MSc, Agroforestry and Tropical Forestry** — Bangor University, United Kingdom | 2008–2010
-- **MSc, Agroecology** — Norwegian University of Life Sciences, Norway | 2006–2008
-- **BSc, Plant Sciences** — Hawassa University, Ethiopia | 2000–2004
+- **PhD, Production Ecology and Resource Conservation (Systems Agronomy)** - Wageningen University & Research, The Netherlands | 2014-2018
+- **MSc, Agroforestry and Tropical Forestry** - Bangor University, United Kingdom | 2008-2010
+- **MSc, Agroecology** - Norwegian University of Life Sciences, Norway | 2006–2008
+- **BSc, Plant Sciences** - Hawassa University, Ethiopia | 2000–2004
 
 ## Selected publications
 
@@ -91,4 +91,4 @@ For the proposed Transformative AI Fund study, I would lead the agricultural evi
 
 Amharic (native) | Afaan Oromo (native) | English (fluent)
 
-Full publication record available through Google Scholar.
+Full publication record available through [Google Scholar]([https://scholar.google.com/citations?user=m-LA3WoAAAAJ&hl=en])
